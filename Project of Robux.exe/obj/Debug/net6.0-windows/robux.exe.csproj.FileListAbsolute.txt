@@ -1,0 +1,17 @@
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\bin\Debug\net6.0-windows\robux.exe.exe
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\bin\Debug\net6.0-windows\robux.exe.deps.json
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\bin\Debug\net6.0-windows\robux.exe.runtimeconfig.json
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\bin\Debug\net6.0-windows\robux.exe.dll
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\bin\Debug\net6.0-windows\robux.exe.pdb
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.csproj.AssemblyReference.cache
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.Form1.resources
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.csproj.GenerateResource.cache
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.AssemblyInfoInputs.cache
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.AssemblyInfo.cs
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.csproj.CoreCompileInputs.cache
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.dll
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\refint\robux.exe.dll
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.pdb
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\robux.exe.genruntimeconfig.cache
+C:\Users\JACOPO\VisualStudioProjects\source\repos\robux.exe\robux.exe\obj\Debug\net6.0-windows\ref\robux.exe.dll
